@@ -1,3 +1,7 @@
+
+![image](https://github.com/shoganaich/azure-osticket/assets/112911007/c82e6ba4-f9f3-4550-9f7d-6db72dee9ec3)
+
+
 <p align="center"><img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/></p>
 
 # On-premises Active Directory Deployed in the Cloud (Azure)
